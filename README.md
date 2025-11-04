@@ -52,4 +52,4 @@ Only players with the **mechanic** job can access the tuning zone and modify veh
 1. Place the script inside your server’s `resources` folder.  
 2. Add the following line to your `server.cfg`:
    ```bash
-   ensure eldox_tuning
+   ensure eldox_mechanic
